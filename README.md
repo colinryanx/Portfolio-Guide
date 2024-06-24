@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Getting Data from Kaggle, Data Exploration, and Data Transformation | Explored data and generated quick insights using pandas, transformed the data, and extracted the file for loading to Tableau. | pandas, zipfile, kaggle
+| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Getting Data from Kaggle, Data Exploration, and Data Transformation | Explored data and generated quick insights using pandas, transformed the data, and extracted the file for loading to Tableau. The purpose is to analyze and visualize the trend of bicycle rides from 2015 to 2016. | pandas, zipfile, kaggle
 
 ***
 
@@ -28,13 +28,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🚴 [London Bicycle Rides]() | Visualized key insights using Tableau, including the timeline of total bicycle rides on London by moving averages, bicycle rides depending on the weather, bicycle rides relative to Temperature and Wind Speed, and bicycle rides by hour. | [Dashboard](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides) |
+| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Visualized key insights using Tableau, including the timeline of total bicycle rides on London by moving averages, bicycle rides depending on the weather, bicycle rides relative to Temperature and Wind Speed, and bicycle rides by hour. | [Dashboard](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides) |
 
 ***
 
 # PowerBI
 
-| Project & Visualization Link | Project Description | Visualization Link |
+| Project & Visualization Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🏨 [Hotel Performance Report](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md) | Loaded Data using SQL Code, Transformed Data, and Visualized Key Insights using Power BI | [Dashboard](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) |
 | 📈 [DSA Marketing Ltd. Financial Dashboard](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/README.md) | **[Featured on the DataSense Analytics Facebook page](https://www.facebook.com/photo.php?fbid=237583475707496&set=pb.100083675353136.-2207520000&type=3).** Output from the 6 hour Business Intelligence with POWER BI (Power Query and M Code) Training by DataSense Analytics. | [Dashboard](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/DSA%20Marketing%20Ltd.%20Financial%20Dashboard.pdf) |
