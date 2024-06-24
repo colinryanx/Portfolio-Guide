@@ -36,7 +36,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project & Visualization Link | Project Description | Visualization Link |
 |---|---|---|
-| 🏨 [Hotel Performance Report](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) | Loaded Data using SQL Code, Transformed Data, and Visualized Key Insights using Power BI | [Dashboard](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) |
+| 🏨 [Hotel Performance Report](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md) | Loaded Data using SQL Code, Transformed Data, and Visualized Key Insights using Power BI | [Dashboard](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) |
 
 
 
