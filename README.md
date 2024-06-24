@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🚴 [London Bicycle Rides]() | Getting Data from Kaggle, Data Exploration, and Data Transformation | Explored data and generated quick insights using pandas, transformed the data, and extracted the file for loading to Tableau. | pandas, zipfile, kaggle
+| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Getting Data from Kaggle, Data Exploration, and Data Transformation | Explored data and generated quick insights using pandas, transformed the data, and extracted the file for loading to Tableau. | pandas, zipfile, kaggle
 
 ***
 
