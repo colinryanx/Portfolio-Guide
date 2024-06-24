@@ -28,15 +28,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🚴 [London Bicycle Rides]() | Visualised key insights using Tableau, including the timeline of total bicycle rides on London by moving averages, bicycle rides depending on the weather, bicycle rides relative to Temperature and Wind Speed, and bicycle rides by hour. | [Dashboard](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides) |
+| 🚴 [London Bicycle Rides]() | Visualized key insights using Tableau, including the timeline of total bicycle rides on London by moving averages, bicycle rides depending on the weather, bicycle rides relative to Temperature and Wind Speed, and bicycle rides by hour. | [Dashboard](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides) |
 
 ***
 
 # PowerBI
 
-| Project Link | Project Description | Visualization Link |
+| Project & Visualization Link | Project Description | Visualization Link |
 |---|---|---|
-| 🏨 [Hotel Performance Report]() | | |
+| 🏨 [Hotel Performance Report](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) | Loaded Data using SQL Code, Transformed Data, and Visualized Key Insights using Power BI | [Dashboard](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) |
 
 
 
