@@ -10,9 +10,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # SQL
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 🏨 [Hotel Performance]() | Exploratory Data analysis and Data Transformation for loading to Power BI | It showcases my ability to utilize various SQL queries to generate quick insights and demonstrates my proficiency in SQL query writing. | 
+| Project Link | Area of Analysis | Project Description | Code Link |
+|---|---|---|---|
+| 🏨 [Hotel Performance](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md) | Exploratory Data analysis and Data Transformation for loading to Power BI | It showcases my ability to utilize various SQL queries to generate quick insights and demonstrates my proficiency in SQL query writing. | [Code](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Analysis.md)
 
 ***
 
