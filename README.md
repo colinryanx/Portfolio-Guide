@@ -21,7 +21,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Getting Data from Kaggle, Data Exploration, and Data Transformation | Explored data and generated quick insights using pandas, transformed the data, and extracted the file for loading to Tableau. The purpose is to analyze and visualize the trend of bicycle rides from 2015 to 2016. | pandas, zipfile, kaggle
+| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Getting Data from Kaggle, Data Exploration, and Data Transformation | The purpose is to analyze and visualize the trend of bicycle rides in London from 2015 to 2016. | pandas, zipfile, kaggle
 
 ***
 
