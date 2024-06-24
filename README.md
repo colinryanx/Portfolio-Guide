@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🏨 [Hotel Performance Report]() | Exploratory Data analysis and Data Transformation for loading to Power BI | It showcases my ability to utilize various SQL queries to generate quick insights and demonstrates my proficiency in SQL query writing. | 
+| 🏨 [Hotel Performance]() | Exploratory Data analysis and Data Transformation for loading to Power BI | It showcases my ability to utilize various SQL queries to generate quick insights and demonstrates my proficiency in SQL query writing. | 
 
 ***
 
